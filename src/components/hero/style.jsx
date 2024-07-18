@@ -70,7 +70,7 @@ export const Hero_Style = styled.section`
             transform: translate(-50% , -50%);
             text-align: center;
             
-            button{
+            a{
                 margin: 0 auto;
                 margin-top: 4rem;
                 cursor: pointer;
