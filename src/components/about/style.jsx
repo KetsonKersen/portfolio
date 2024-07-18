@@ -19,9 +19,9 @@ export const About_Style = styled.section`
         transform: translate(-50% , 0);
     }
     h2{
-        width: fit-content;
-        font-size: 5rem;
-        font-weight: 800;
+        margin: 0 auto;
+        margin-bottom: 4rem;
+       
     }
     .grid-about{
         width: 100%;
